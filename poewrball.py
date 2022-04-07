@@ -1,7 +1,6 @@
 import random
 from function import winnerlist
 import colorama
-
 w=[]
 g=[]
 white=[]
